@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+body {
+    background-color: #111827;
+}
+
+.sc-llIIlC.kviroX {
+  opacity: 1 !important;
+  visibility: visible !important;
+  pointer-events: auto !important;
+}
