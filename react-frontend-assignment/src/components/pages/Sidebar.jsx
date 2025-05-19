@@ -18,7 +18,7 @@ const Sidebar = ({ sidebarOpen }) => {
                   <li key={route.path}>
                     <button
                       onClick={() => navigate(route.path)}
-                      className="w-full flex items-center gap-4 p-3 rounded-xl bg-[#334155] hover:bg-[#475569] transition-colors duration-200"
+                      className="w-full flex items-center gap-4 p-3 rounded-xl bg-[#334155] hover:bg-[#475569] transition-colors cursor-pointer duration-200"
                     >
                       <span>{route.icon}</span>
                       <span className="text-lg font-medium">{route.label}</span>
