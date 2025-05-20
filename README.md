@@ -2,6 +2,11 @@
 
 This project is a modern Admin Dashboard built using React.js and Tailwind CSS. It features a collapsible sidebar, routing system and a user-friendly interface for managing users, roles, and other system data. It includes data tables with search, sort, and filter capabilities, along with clean UI elements and mobile responsiveness.
 
+## Live Demo
+
+[Live Demo](https://stupendous-griffin-11d326.netlify.app/)
+
+
 ## Built With
 
 - React.js
