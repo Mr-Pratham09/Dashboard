@@ -1,5 +1,5 @@
 import './App.css'
-import AppRouter from './routes'
+import AppRouter from './AppRouter'
 import Sidebar from './components/pages/Sidebar'
 import { useState } from 'react'
 
