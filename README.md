@@ -40,12 +40,17 @@ git clone git@github.com:Mr-Pratham09/Dashboard.git
 cd Dashboard
 ```
 
-3. Install the dependencies:
+3. Navigate again to the project folder:
+```bash
+cd react-frontend-assignment
+```
+
+4. Install the dependencies:
 ```bash
 npm install
 ```
 
-4. Start the development server:
+5. Start the development server:
 ```bash
 npm run dev
 ```
