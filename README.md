@@ -1,5 +1,7 @@
 # Dashboard
 
+![Dashboard Screenshot](./dashboard.jpeg)
+
 This project is a modern Admin Dashboard built using React.js and Tailwind CSS. It features a collapsible sidebar, routing system and a user-friendly interface for managing users, roles, and other system data. It includes data tables with search, sort, and filter capabilities, along with clean UI elements and mobile responsiveness.
 
 ## Live Demo
